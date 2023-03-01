@@ -5,4 +5,5 @@ void main()
 	int b=20;
 	int c;
   printf("%d",c);
+  printf("%d %d",a-b);
 }
